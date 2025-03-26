@@ -44,7 +44,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/bandaheali/Sarkar-MD)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=DEPLOY+⤵️+ON+KOYEB)](https://git.io/typing-svg)
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/services/deploy?type=git&repository=github.com/bandaheali/Sarkar-MD&branch=main&name=Bandaheali&builder=dockerfile&env[SESSION_ID]=&env[MODE]=public&env[PREFIX]=.&env[OWNER_NUMBER]=923253617422&env[OWNER_NAME]=Bandaheali&env[AUTO_REACT]=false&env[HEART_REACT]=false&env[OWNER_REACT]=true&env[REJECT_CALL]=true&env[AUTO_BIO]=true)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/services/deploy?type=git&repository=github.com/bandaheali/Sarkar-MD&branch=main&name=bandaheali&builder=dockerfile&env[SESSION_ID]=&env[MODE]=public&env[PREFIX]=.&env[OWNER_NUMBER]=923253617422&env[OWNER_NAME]=Bandaheali&env[AUTO_REACT]=false&env[HEART_REACT]=false&env[OWNER_REACT]=true&env[REJECT_CALL]=true&env[AUTO_BIO]=true)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=CREATE+⤵️+ON+ACCOUNT)](https://git.io/typing-svg)
 <br>
