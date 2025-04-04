@@ -40,8 +40,8 @@
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=DEPLOY+⤵️+ON+HEROKU)](https://git.io/typing-svg)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://dashboard.heroku.com/new-app?template=https://github.com/bandaheali/Sarkar-MD](https://cleanuri.com/Nn2bZX))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Bandaheali/Sarkar-MD)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=DEPLOY+⤵️+ON+KOYEB)](https://git.io/typing-svg)
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/services/deploy?type=git&repository=github.com/bandaheali/Sarkar-MD&branch=main&name=bandaheali&builder=dockerfile&env[SESSION_ID]=&env[MODE]=public&env[PREFIX]=.&env[OWNER_NUMBER]=923253617422&env[OWNER_NAME]=Bandaheali&env[AUTO_REACT]=false&env[HEART_REACT]=false&env[OWNER_REACT]=true&env[REJECT_CALL]=true&env[AUTO_BIO]=true)
