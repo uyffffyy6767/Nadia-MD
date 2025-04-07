@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sarkar-MD&label=VISITORS&style=flat-square&color=00ffff" />
+  <img src="https://komarev.com/ghpvc/?username=Sarkar-MD&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
 > **Current Bot Version `3.0.0`**  
