@@ -7,10 +7,10 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Sarkar-Bandaheali/followers"><img title="Followers" src="https://img.shields.io/github/followers/Sarkar-Bandaheali?color=00ffff&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sarkar-Bandaheali/Sarkar-MD?color=00ffff&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sarkar-Bandaheali/Sarkar-MD?color=00ffff&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Sarkar-Bandaheali/Sarkar-MD?style=for-the-badge&color=00ffaa&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/Sarkar-Bandaheali/followers"><img title="Followers" src="https://img.shields.io/github/followers/Sarkar-Bandaheali?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sarkar-Bandaheali/Sarkar-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sarkar-Bandaheali/Sarkar-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Sarkar-Bandaheali/Sarkar-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
   <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
@@ -65,15 +65,15 @@ Dont forget to fork & star repo
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
   
 --- 
-  > **⚠️ PAIR (01)**
-  <a href='https://zaynixxd.biz.i/' target="_blank">
+  > **⚠️ LINK (01)**
+  <a href='https://sarkar-md-session-generator.koyeb.app/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   
   <div style="height: 10px;"></div>
   
-  > **⚠️ PAIR (02)**
-  <a href='https://subzero-md.koyeb.ap' target="_blank">
+  > **⚠️ LINK (02)**
+  <a href='https://sarkar-md-session-generator.koyeb.app/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
   
