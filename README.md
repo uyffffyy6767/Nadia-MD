@@ -1,168 +1,174 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+SATAR+FORK+MYREPO;CREATED+BY+SARKAR+BANDAHEALI;RELEASED+24-12-2024" alt="Typing SVG" /></a>  
-
-  <a href="https://files.catbox.moe/s1q8so.jpeg">
-    <img alt="secktor docs" height="300" src="https://files.catbox.moe/s1q8so.jpeg">
-    
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=🙏+𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢+⤵️)](https://git.io/typing-svg)
- <p align="lift">
- <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/fork"><img title="SARKAR-MD" src="https://img.shields.io/badge/FORK-SARKAR MD-h?color=green&style=for-the-badge&logo=github"></a>
-   
-<p align="lift">
-<a href="https://sarkar-md-session-generator.koyeb.app/"><img height= "25" title="Author" src="https://img.shields.io/badge/GET SESSION-1-blue?style=for-the-badge&logo=koyeb"></a>
-
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </div>
-  
-  </p>
 <p align="center">
-  <!-- Developer -->
-  <img src="https://img.shields.io/static/v1?label=OWNER&message=Sarkar%20Bandaheali&color=orange&style=plastic" alt="Developer Badge">
-</p> 
-
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">SARKAR-MD</h1>
 </p>
+
 <p align="center">
-<a href="https://github.com/Sarkar-Bandaheali"><img title="Author" src="https://img.shields.io/badge/Sarkar-MD-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VajGHyh2phHOH5zJl73P"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923253617422"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/Sarkar-Bandaheali?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Sarkar-Bandaheali?label=Followers&style=social"></a>
-<a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sarkar-Bandaheali/Sarkar-MD?&style=social"></a>
-<a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Sarkar-Bandaheali/Sarkar-MD?style=social"></a>
-<a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Sarkar-Bandaheali/Sarkar-MD?label=Watching&style=social"></a>
-</p>></a>                     
-
-   <h1 align="center"                  
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </div>
-
-
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Bandaheali/Sarkar-MD)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=DEPLOY+⤵️+ON+KOYEB)](https://git.io/typing-svg)
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/services/deploy?type=git&repository=github.com/bandaheali/Sarkar-MD&branch=main&name=bandaheali&builder=dockerfile&env[SESSION_ID]=&env[MODE]=public&env[PREFIX]=.&env[OWNER_NUMBER]=923253617422&env[OWNER_NAME]=Bandaheali&env[AUTO_REACT]=false&env[HEART_REACT]=false&env[OWNER_REACT]=true&env[REJECT_CALL]=true&env[AUTO_BIO]=true)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=CREATE+⤵️+ON+ACCOUNT)](https://git.io/typing-svg)
-<br>
-<a href='https://app.koyeb.com/auth/signup' target="_blank">
-  <img alt='CREATE ACCOUNT' src='https://img.shields.io/badge/-CREATE_ACCOUNT-green?style=for-the-badge&logo=koyeb&logoColor=white'/>
-</a>
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </div>
-
-⭕  DEPLOY ON [ RENDER
-]
-
-[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-blue.svg)](https://render.com)
-♻️CREATE ACCOUNT ✅  
-
-
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </div>
-
-⭕  DEPLOY ON [ Panel ]
-
-[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-blue.svg)](https://toystack.ai)
-
- # 😈 Sarkar-MD INFO
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </div>
-  
-<a href="https://whatsapp.com/channel/0029VajGHyh2phHOH5zJl73P" target="_blank">
-    <img alt="whatsapp channel" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://chat.whatsapp.com/IZ08OuI8pqV2RbTrDvlQk3" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
 </p>
-## DEPLOY SARKAR-MD ON GITHUB WORKFLOW
-<h2>STEP 1 : FORK THE REPO</h2><br>
-<h2>STEP 1 : CREATE A NEW FILE .env AND PASTE YOUR SESSION_ID</h2><br>
-
-``` SESSION_ID=YOUR SESSION ID
-MODE=public
-OWNER_NUMBER=923253617422
-OWNER_NAME=BANDAHEALI
-SESSION_ID= ADD YOUR SESSION HERE
-``` 
-<h2>STEP 1 : COPY UNDER WORKFLOW DEPLOYEMNT CODE</h2><br>
-<h2>STEP 2 : GO TO YOUR REPO ACTION TAG </h2><br>
-<h2>STEP 3 : CLICK "SETUP NEW WORKFLOW"</h2><br>
-<h2>STEP 4 : PASTE YOUR WORKFLOW DEPLOYMENT CODE AND SAVE FILE</h2><br>
-
-
-<p align="center"> 𝗪𝗢𝗥𝗞𝗙𝗟𝗢𝗪 𝗗𝗘𝗣𝗟𝗢𝗬 𝗖𝗢𝗗𝗘</p>
-<h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
-
-```
-name: Node.js CI
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start application
-      run: npm start
-```
-
-
----
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </div>
-
-<h6>Authors</h6>
 
 <div align="center">
+  <a href="https://github.com/Sarkar-Bandaheali/followers"><img title="Followers" src="https://img.shields.io/github/followers/Sarkar-Bandaheali?color=00ffff&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sarkar-Bandaheali/Sarkar-MD?color=00ffff&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sarkar-Bandaheali/Sarkar-MD?color=00ffff&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Sarkar-Bandaheali/Sarkar-MD?style=for-the-badge&color=00ffaa&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+</div>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sarkar-MD&label=VISITORS&style=flat-square&color=00ffff" />
+</p>
 
-| [![Sarkar Bandaheali](https://github.com/Sarkar-Bandaheali.png?lenght=50width=50)](https://github.com/Sarkar-Bandaheali) |
-|----|
-| [ MR SHABAN ](https://wa.me/message/L5NHEHHAQUQZF1) |
-| HELPER CONTACT |
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </div>
+> **Current Bot Version `3.0.0`**  
 
-<br>
+---
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </div>
+```
+Dont forget to fork & star repo
+```
 
+---
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </div>
+<div align="center">
+  <img src="https://files.catbox.moe/ntygp1.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 25px #0088ff;"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/divider.gif?raw=true" width="100%"/>
+</div>
+<div align="center">
+  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
+</div>
+
+## 🚀 Deployment Steps
+
+<div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
   
-[Sarkar-MD Codes](.)
+### <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/forkicon.gif?raw=true" width="25"/> 1. Fork This Repository
+  
+<div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
+  <p style="color: #00ffff;">First star & Fork repo using button Below !</p>
+  <a href='https://github.com/mrfrankofcc/SUBZERO-MD/fork' target="_blank">
+    <img src='https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
+  </a>
+</div>
 
+</div>
 
-[Thanks To God](.)
+<div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
+
+### <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/keyicon.gif?raw=true" width="25"/> 2. Get Session ID
+  
+<div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
+  
+--- 
+  > **⚠️ OPTION ONE**
+  <a href='https://zaynixxd.biz.id/' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a></br>
+  
+  <div style="height: 10px;"></div>
+  
+  > **⚠️ OPTION TWO**
+  <a href='https://subzero-md.koyeb.app' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a>
+  
+  ---
+  <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
+    <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 
+    Connection issues may require VPN activation
+  </p>
+</div>
+
+</div>
+
+<div align="center">
+  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+</div>
+
+## 🚀 DEPLOYMENT OPTIONS
+
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/mrfrankofcc/SUBZERO-MD/tree/main" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://talkdrove.com/share-bot/11" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=mrfrankofcc/SUBZERO-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+      <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
+</div>
+
+## 🌟 BOT FEATURES
+
+```bash
+✦ Antidelete, Antiviewonce, Antilink
+✦ High speed YT, Tiktok, FB, IG Downloaders
+✦ 10+ AI models + Image anlysis AI
+✦ Fast low latensie, Powerful
+✦ Futuristic Cool ICY UI
+```
+
+<div align="center">
+  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
+</div>
+
+## 📡  SUPPORT CHANNEL
+
+<div align="center">
+  <a href="https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D">
+    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
+</div>
+
+## ⚠️ WARNING !
+
+<div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
+  <h3 style="color: #00ffff; font-family: 'Orbitron', sans-serif;">DISCLAIMER</h3>
+  <p style="color: #ffffff;">This bot is not affiliated with WhatsApp Inc. Use at your own risk. Misuse may result in account bans.</p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
+</div>
+
+## 🧑‍💻 PROJECT ARCHITECTS
+<div align="center">
+  <a href="https://github.com/mrfr8nk">
+    <img src="https://github-readme-stats.vercel.app/api?username=mrfr8nk&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Bandaheali/Sarkar-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+</div>
+
+## 👑 SARKAR STATUS
+
+```diff
++ Project Status: Active
+! Version: 3.0.0 Neon Edition
+# License: APACHE
+```
+
+<div align="center">
+  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
+</div>
