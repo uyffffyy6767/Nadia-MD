@@ -60,26 +60,26 @@ Dont forget to fork & star repo
 
 <div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
 
-### <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/keyicon.gif?raw=true" width="25"/> 2. Get Session ID
+### <img src="https://github.com/Sarkar-Bandaheali/Sarkar-MD/blob/main/assets/keyicon.gif?raw=true" width="25"/> 2. Get Session ID
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
   
 --- 
-  > **⚠️ OPTION ONE**
-  <a href='https://zaynixxd.biz.id/' target="_blank">
+  > **⚠️ PAIR (01)**
+  <a href='https://zaynixxd.biz.i/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   
   <div style="height: 10px;"></div>
   
-  > **⚠️ OPTION TWO**
-  <a href='https://subzero-md.koyeb.app' target="_blank">
+  > **⚠️ PAIR (02)**
+  <a href='https://subzero-md.koyeb.ap' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
   
   ---
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
-    <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 
+    <img src="https://github.com/Sarkar-Bandaheali/Sarkar-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 
     Connection issues may require VPN activation
   </p>
 </div>
@@ -87,10 +87,10 @@ Dont forget to fork & star repo
 </div>
 
 <div align="center">
-  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+  <img src="https://github.com/Sarkar-Bandaheali/Sarkar-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 
-## 🚀 DEPLOYMENT OPTIONS
+## 📡 DEPLOYMENT OPTIONS
 
 <div align="center">
   <table>
@@ -110,7 +110,7 @@ Dont forget to fork & star repo
 </div>
 
 <div align="center">
-  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
+  <img src="https://github.com/Sarkar-Bandaheali/Sarkar-MD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
 </div>
 
 ## 🌟 BOT FEATURES
@@ -124,19 +124,19 @@ Dont forget to fork & star repo
 ```
 
 <div align="center">
-  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
+  <img src="https://github.com/Sarkar-Bandaheali/Sarkar-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
 </div>
 
-## 📡  SUPPORT CHANNEL
+## 🪀  SUPPORT CHANNEL
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D">
+  <a href="https://whatsapp.com/channel/0029VajGHyh2phHOH5zJl73P">
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
+  <img src="https://github.com/Sarkar-Bandaheali/Sarkar-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
 </div>
 
 ## ⚠️ WARNING !
@@ -147,12 +147,12 @@ Dont forget to fork & star repo
 </div>
 
 <div align="center">
-  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
+  <img src="https://github.com/Sarkar-Bandaheali/Sarkar-MD/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
 </div>
 
-## 🧑‍💻 PROJECT ARCHITECTS
+## 🗃️ PROJECT ARCHITECTS
 <div align="center">
-  <a href="https://github.com/mrfr8nk">
+  <a href="https://github.com/Sarkar-Bandaheali">
     <img src="https://github-readme-stats.vercel.app/api?username=mrfr8nk&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
   </a>
 </div>
@@ -170,5 +170,5 @@ Dont forget to fork & star repo
 ```
 
 <div align="center">
-  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
+  <img src="https://github.com/Sarkar-Bandaheali/Sarkar-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
 </div>
